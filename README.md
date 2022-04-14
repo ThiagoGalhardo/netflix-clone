@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone"</h1>
+<h1 align="center">Netflix Clone</h1>
 
 <p align="center">Projeto criado em  ReactJs com o intuito de aperfeiçoar meus conhecimentos.
 <p align="center">
