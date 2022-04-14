@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import config from "./path/config.js"
+import config from "../path/config.js"
 
 const API_KEY = config.api.KEY;
 const API_BASE = "https://api.themoviedb.org/3";

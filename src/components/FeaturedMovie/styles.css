@@ -5,13 +5,13 @@
 .featured--vertical{
   width: inherit;
   height: inherit;
-  background: linear-gradient(to top, #111, transparent);
+  background: linear-gradient(to top, var(--colorDark), transparent);
 }
 
 .featured--horizontal{
   width: inherit;
   height: inherit;
-  background: linear-gradient(to right, #111 30%, transparent 70%);
+  background: linear-gradient(to right, var(--colorDark) 30%, transparent 70%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -37,7 +37,7 @@ margin-top: 15px;
 }
 
 .featured--points{
-  color: #46d369;
+  color: var(--colorGreen);
 }
 
 .featured--description{
@@ -69,20 +69,20 @@ margin-top: 15px;
 }
 
 .featured--watch-button{
-  background-color: #fff;
-  color: #000;
+  background-color: var(--colorWhite);
+  color: var(--colorBlack);
 }
 
 
 .featured--list-button{
   background-color: #333;
-  color: #fff;
+  color: var(--colorWhite);
 }
 
 .featured--genres{
   margin-top: 20px;
   font-size: 18px;
-  color: #999;
+  color: var(--colorDarkGray);
 }
 
 
@@ -124,6 +124,6 @@ margin-top: 15px;
     font-size: 14px;
     max-width: 80%;
     margin-right: 30px;
-    color: #ccc;
+    color: var(--colorLightGray);
   }
 }

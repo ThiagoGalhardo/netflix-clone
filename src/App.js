@@ -2,7 +2,7 @@ import "./App.css";
 
 import React, { useEffect, useState } from "react";
 
-import Tmdb from "./Tmdb";
+import Tmdb from "./utils/Tmdb";
 import MovieRow from "./components/MovieRow";
 import FeaturedMovie from './components/FeaturedMovie';
 import Header from './components/Header';
