@@ -23,6 +23,8 @@ Criar um clone do site do Netflix, utilizando React e consumindo a API tmdb.
 
 <h1 align="center">
 <img alt="demo" title="Screenshot" src="screenshot.gif" height="450" /> 
+<br/>
+<br/>
 <img alt="demo" title="Screenshot" src="screenshot2.gif" height="450" /> 
 </h1>
 
